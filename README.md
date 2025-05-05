@@ -32,6 +32,13 @@ Data Camp - [here](https://www.datacamp.com/)
  ### Google Sheets
  [Alyson the Analyst Google Sheet Tutorial](https://www.youtube.com/watch?v=-8vSXTN5RJ8&list=PLvJhtbaWAuW1SEDNicv-BaJ7vq23TJ8l8)
 
+ ## Data Collection
+
+[Kaggle](Kaggle.com/datasets) - Datasets for personal practice
+  
+[Kaggle Learn](https://www.kaggle.com/learn)
+
+
 ## Practice Websites
 
 [SQL Bolt](https://sqlbolt.com/)
